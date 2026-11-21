@@ -22,6 +22,32 @@ Secure a 200-member volunteer fire department using Microsoft security technolog
 - Monitor security events
 - Improve governance
 
+## Project Deliverables
+
+- Security Architecture Diagram
+- Conditional Access Strategy
+- MFA Deployment Plan
+- Device Management Plan
+- Incident Response Playbook
+- Security Monitoring Design
+- Executive Briefing
+
 ## Project Status
 
-Planning
+### Phase 1
+
+- [ ] Identity Assessment
+- [ ] MFA Strategy
+- [ ] Conditional Access Design
+
+### Phase 2
+
+- [ ] Intune Design
+- [ ] Defender XDR Design
+- [ ] Device Compliance Strategy
+
+### Phase 3
+
+- [ ] Sentinel Monitoring Design
+- [ ] Incident Response Playbook
+- [ ] Executive Presentation
